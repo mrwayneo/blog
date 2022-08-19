@@ -4,7 +4,7 @@ title: "Home"
 date: 2022-08-19 07:54:03 +1000  
 ---   
 
-## [pc2565](https://mrwayneo.github.io/)    
+## [Blog](https://mrwayneo.github.io/blog)    
 
 by wayneo   
 
