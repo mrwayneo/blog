@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PC2565
+title: Blog
 email: mrwayneo@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Punters started February 2020, $10 per tip.
+  This is a simple blog.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mrwayneo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
